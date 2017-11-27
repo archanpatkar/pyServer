@@ -2,7 +2,7 @@ import socket
 import threading
 from TSQueue import TSQueue
 
-print("Welcome to Concurrent Server 2.0")
+print("Welcome to Concurrent Server")
 
 queue = TSQueue()
 
