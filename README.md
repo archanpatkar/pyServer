@@ -11,4 +11,4 @@
 ## 2. cd into the folder named ``` cd pyServer ```
 ## 3. Then execute ``` python Server.py ```
 
-### To send messages to Concurrent Server you can use my ```pyClient```
+### To send messages to Concurrent Server you can use my ```[pyClient](https://github.com/archanpatkar/pyClient)```
