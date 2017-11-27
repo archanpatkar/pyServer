@@ -3,11 +3,12 @@
 
 ***
 
-### To use this first clone this repo
+### Instructions
 
 > follow the exact steps in CMD/Terminal
 
-## 1. cd into the folder
-## 2. Then execute ``` python Server.py ```
+## 1. Clone this repo ``` git clone https://github.com/archanpatkar/pyServer.git ```
+## 2. cd into the folder named ``` cd pyServer ```
+## 3. Then execute ``` python Server.py ```
 
-### To use this Concurrent Server you can use my ```pyClient```
+### To send messages to Concurrent Server you can use my ```pyClient```
